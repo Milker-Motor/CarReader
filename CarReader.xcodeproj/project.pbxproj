@@ -15,6 +15,7 @@
 		63E945511DC27C6D00913AAB /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E945501DC27C6D00913AAB /* MapViewController.swift */; };
 		63E945531DC27E5500913AAB /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E945521DC27E5500913AAB /* Car.swift */; };
 		63E945551DC27EE700913AAB /* CarTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E945541DC27EE700913AAB /* CarTableViewCell.swift */; };
+		63E945571DC2924000913AAB /* ImageWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E945561DC2924000913AAB /* ImageWorker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		63E945501DC27C6D00913AAB /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		63E945521DC27E5500913AAB /* Car.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
 		63E945541DC27EE700913AAB /* CarTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarTableViewCell.swift; sourceTree = "<group>"; };
+		63E945561DC2924000913AAB /* ImageWorker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageWorker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				63E9454E1DC27C5B00913AAB /* CarListTableViewController.swift */,
 				63E945541DC27EE700913AAB /* CarTableViewCell.swift */,
 				63E945501DC27C6D00913AAB /* MapViewController.swift */,
+				63E945561DC2924000913AAB /* ImageWorker.swift */,
 				63E945401DC27BB600913AAB /* Main.storyboard */,
 				63E945431DC27BB600913AAB /* Assets.xcassets */,
 				63E945451DC27BB600913AAB /* LaunchScreen.storyboard */,
@@ -150,6 +153,7 @@
 				63E945531DC27E5500913AAB /* Car.swift in Sources */,
 				63E9454F1DC27C5B00913AAB /* CarListTableViewController.swift in Sources */,
 				63E945551DC27EE700913AAB /* CarTableViewCell.swift in Sources */,
+				63E945571DC2924000913AAB /* ImageWorker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,6 +315,7 @@
 				63E9454D1DC27BB600913AAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
